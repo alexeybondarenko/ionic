@@ -1,3 +1,23 @@
+### 1.0.0-beta.15 "magnesium-mongoose2" (2015-01-14)
+
+
+#### Features
+
+* **actionsheet:** android style/layout, iOS update ([b837fb24](https://github.com/alexeybondarenko/ionic/commit/b837fb24e247688c40d85d1bdf4f75e75d902a61))
+* **modal:** bg only for inset modals ([5de1c126](https://github.com/alexeybondarenko/ionic/commit/5de1c1266d734d9fd904401d2509853a4a762101))
+* **pullToRefresh:** add on-pull-progress ([955f4411](https://github.com/alexeybondarenko/ionic/commit/955f44110b6d6493502594e02773e56443e947de))
+
+
+### 1.0.0-beta.14 "magnesium-mongoose" (2015-01-14)
+
+
+#### Features
+
+* **actionsheet:** android style/layout, iOS update ([b837fb24](https://github.com/driftyco/ionic/commit/b837fb24e247688c40d85d1bdf4f75e75d902a61))
+* **modal:** bg only for inset modals ([5de1c126](https://github.com/driftyco/ionic/commit/5de1c1266d734d9fd904401d2509853a4a762101))
+* **pullToRefresh:** add on-pull-progress ([955f4411](https://github.com/driftyco/ionic/commit/955f44110b6d6493502594e02773e56443e947de))
+
+
 ### 1.0.0-beta.14 "magnesium-mongoose" (2014-12-15)
 
 #### Refactor:
